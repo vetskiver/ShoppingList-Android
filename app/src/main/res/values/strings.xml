@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ShoppingListApp</string>
+    <string name="splash">splash</string>
+    <string name="ali_s_shopping_list">Ali\'s Shopping List</string>
+    <string name="no_items">No items</string>
+    <string name="enter_item_name">Enter item name:</string>
+    <string name="enter_item_description">Enter item description:</string>
+    <string name="enter_estimated_price">Enter estimated price:</string>
+    <string name="bought">Bought</string>
+    <string name="save">Save</string>
+    <string name="please_fill_in_all_fields">Please fill in all fields</string>
+    <string name="category">Category</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="less">Less</string>
+    <string name="more">More</string>
+    <string name="estimated_price">Estimated Price: $%1$s</string>
+    <string name="description">Description: %1$s</string>
+    <string name="not_bought">Not Bought: %1$s</string>
+    <string name="all">All: %1$s</string>
+    <string name="dollar">$%1$s\n%2$s</string>
+    <string name="shoppinglist">shoppinglist</string>
+    <string name="numallshopping">numallshopping</string>
+    <string name="numbought">numbought</string>
+</resources>
